@@ -1,0 +1,2 @@
+# StocksMonitor
+Stocks Monitor Project
